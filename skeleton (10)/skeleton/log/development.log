@@ -4089,3 +4089,15 @@ Completed 200 OK in 200ms (Views: 176.5ms | ActiveRecord: 0.0ms)
 
 
 Started GET "/assets/AA_Times_Logo.png" for ::1 at 2021-02-12 14:44:35 -0500
+Started GET "/assets/application.self-88059b08fae65ce3ef4c9bee5fe07b8345aef0f7462972b0244e3e22ddd449ee.css?body=1&livereload=1613160612428" for ::1 at 2021-02-12 15:10:12 -0500
+Started GET "/assets/application.self-88059b08fae65ce3ef4c9bee5fe07b8345aef0f7462972b0244e3e22ddd449ee.css?body=1&livereload=1613160612480" for ::1 at 2021-02-12 15:10:12 -0500
+Started GET "/assets/application.self-88059b08fae65ce3ef4c9bee5fe07b8345aef0f7462972b0244e3e22ddd449ee.css?body=1&livereload=1613160746728" for ::1 at 2021-02-12 15:12:26 -0500
+Started GET "/assets/application.self-88059b08fae65ce3ef4c9bee5fe07b8345aef0f7462972b0244e3e22ddd449ee.css?body=1&livereload=1613160746747" for ::1 at 2021-02-12 15:12:26 -0500
+Started GET "/assets/application.self-88059b08fae65ce3ef4c9bee5fe07b8345aef0f7462972b0244e3e22ddd449ee.css?body=1&livereload=1613160751372" for ::1 at 2021-02-12 15:12:31 -0500
+Started GET "/assets/application.self-88059b08fae65ce3ef4c9bee5fe07b8345aef0f7462972b0244e3e22ddd449ee.css?body=1&livereload=1613160751377" for ::1 at 2021-02-12 15:12:31 -0500
+Started GET "/assets/application.self-88059b08fae65ce3ef4c9bee5fe07b8345aef0f7462972b0244e3e22ddd449ee.css?body=1&livereload=1613160756410" for ::1 at 2021-02-12 15:12:36 -0500
+Started GET "/assets/application.self-88059b08fae65ce3ef4c9bee5fe07b8345aef0f7462972b0244e3e22ddd449ee.css?body=1&livereload=1613160756417" for ::1 at 2021-02-12 15:12:36 -0500
+Started GET "/assets/application.self-88059b08fae65ce3ef4c9bee5fe07b8345aef0f7462972b0244e3e22ddd449ee.css?body=1&livereload=1613160813386" for ::1 at 2021-02-12 15:13:33 -0500
+Started GET "/assets/application.self-88059b08fae65ce3ef4c9bee5fe07b8345aef0f7462972b0244e3e22ddd449ee.css?body=1&livereload=1613160813391" for ::1 at 2021-02-12 15:13:33 -0500
+Started GET "/assets/application.self-88059b08fae65ce3ef4c9bee5fe07b8345aef0f7462972b0244e3e22ddd449ee.css?body=1&livereload=1613160815340" for ::1 at 2021-02-12 15:13:35 -0500
+Started GET "/assets/application.self-88059b08fae65ce3ef4c9bee5fe07b8345aef0f7462972b0244e3e22ddd449ee.css?body=1&livereload=1613160815355" for ::1 at 2021-02-12 15:13:35 -0500
