@@ -7,19 +7,18 @@
 			</li>
 			<li id="search-modal-btn">
 				<i class="fa fa-search"></i>
-				<span>search</span>
+				<span for="gear-dropdown">search</span>
 			</li>
 		</ul>
 	</nav>
 
 	<nav class="right-nav">
-		<ul> 
-			<li id="subscribe-login-btn" >
-				
-				<button type="button">Subscribe Now</button>
-				<button type="button">Log In</button>
-				<i class="fas fa-cog"></i> 
-					<span><%= render partial: 'shared/gear_dropdown' %></span>  
-			</li>
+		<ul > 
+			<li><button type="button">Subscribe Now</button></li>
+			<li><button type="button">Log In</button></li>
+			<li class="to_hover">
+				<i for="gear-dropdown" class="fas fa-cog"></i>
+				<%= render partial: 'shared/gear_dropdown' %>
+			</li> 
 		</ul>
 </header>

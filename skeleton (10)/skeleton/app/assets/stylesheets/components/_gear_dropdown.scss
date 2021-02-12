@@ -1,4 +1,12 @@
 // Use the gear_dropdown.png screenshot as a style guide
-.gear-dropdown > hidden {
-    
+.gear-dropdown {
+    position: absolute;
+    right: 5px;
+    display: none;
+    background: blanchedalmond;
+    width: 100px;
+    padding: 7px;
+    border: black solid thin;
+    border-radius: 6px;
+    top: 30px;
 }
