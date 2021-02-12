@@ -5,8 +5,14 @@
 	align-items: center;
 	border-bottom: 2px solid black;
 	position: relative;
-	border-top: black solid;
-    border-top-width: thin;
+	// border-top: black solid;
+    // border-top-width: thin;
+}
+
+div {
+	border-bottom: $light-gray thin solid;
+	width: 100%;
+
 }
 .top-lis{
 
@@ -14,6 +20,12 @@
     justify-content: space-around;
     width: 200px;
     margin: auto;
+	    position: relative;
+    top: 1px;
+    background-color: white;
+    border-left: $light-gray thin solid;
+    border-right: $light-gray thin solid;
+    border-top: $light-gray thin solid;
     // border-top: black solid;
     // border-top-width: thin;
 }
@@ -26,6 +38,12 @@
     font-weight: bold;
 }
 
+.fa-newspaper { 	
+	font-size: 12px;
+}
+.fa-video {
+	font-size: 12px;
+}
 img {
     display: block;
     width: 60%;
