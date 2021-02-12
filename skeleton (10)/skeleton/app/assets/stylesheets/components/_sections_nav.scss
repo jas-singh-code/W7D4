@@ -1,0 +1,15 @@
+.whothefcares {
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+}
+
+.whothefcares > li:hover {
+    background-color: $light-gray;
+    border-radius: 2.5px;
+    padding: 2px;
+}
+
+.whothefcares > :last-child {
+    
+}
